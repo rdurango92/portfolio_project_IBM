@@ -1,5 +1,11 @@
 # Proyecto de Portafolio
 
+[![Ver Portafolio](https://img.shields.io/badge/Ver%20Portafolio-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://rdurango92.github.io/portfolio_project_IBM/)
+
+[🔗 **VISITA EL PORTAFOLIO AQUÍ**](https://rdurango92.github.io/portfolio_project_IBM/)
+
+![Portafolio Preview](html_finalprojimages/porfolio.png)
+
 ## Descripción
 Este es un proyecto de portafolio desarrollado con fines educativos para aprender desarrollo web. No representa un portafolio real ni contiene información profesional verdadera.
 
@@ -14,6 +20,10 @@ El objetivo principal de este proyecto es:
 - **index.html**: Página principal del portafolio
 - **style.css**: Estilos CSS para dar formato a la página web
 - **script.js**: Funcionalidades interactivas del portafolio
+
+## Demostración en vivo
+El proyecto está desplegado usando GitHub Pages y puede ser visitado en:
+[https://rdurango92.github.io/portfolio_project_IBM/](https://rdurango92.github.io/portfolio_project_IBM/)
 
 ## Tecnologías Utilizadas
 - HTML5
